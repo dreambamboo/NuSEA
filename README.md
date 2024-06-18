@@ -26,5 +26,5 @@ logging 0.5.1.2
 (4) Optional. If you want to draw an ellipse by yourself, an annotation tool recommended here [https://github.com/Angelo-scut/Labelme-improved]
 
 ## Reference
-Zhu Meng, et al. NuSEA: Nuclei Segmentation with Ellipse Annotations. IEEE Journal of Biomedical and Health Informatics (J-BHI). 2024.\\
+Zhu Meng, et al. NuSEA: Nuclei Segmentation with Ellipse Annotations. IEEE Journal of Biomedical and Health Informatics (J-BHI). 2024.  
 
